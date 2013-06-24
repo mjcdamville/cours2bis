@@ -12,10 +12,10 @@
            
             $utilisateurs = new Utilisateurs();
            
-            echo '<table>
+            echo '<table class="table table-bordered">
                     <thead>
                       <tr>
-                          <th><td></td><td></td></th>
+                          <th><td>Pseudo</td><td>Nom Prénom</td></th>
                       </tr>
                     </thead>
                     <tbody>';
