@@ -14,9 +14,9 @@
            
             echo '<table class="table table-bordered">
                     <thead>
-                      <th>
-                          <td>Pseudo</td><td>Nom Prénom</td>
-                      </th>
+                      <tr>
+                          <th>Pseudo</th><th>Nom Prénom</th>
+                      </tr>
                     </thead>
                     <tbody>';
 
